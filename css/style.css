@@ -509,7 +509,10 @@ a {
   .stories {
     width: 100%;
     margin-bottom: 0px;
-    background-color: #e5e5e5;
+    background-color: #fafafa;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
   }
 
   .post {
@@ -543,6 +546,7 @@ a {
     bottom: 0;
     position: fixed;
     bottom: 0;
+    border-top: solid 1px #dbdbdb;
   }
 
   .novo-comentario {
